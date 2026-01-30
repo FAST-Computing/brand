@@ -4,20 +4,24 @@
 // Personalizzazione per il sito corporate aziendale
 
 // --------------------------------------------
-// Colori Brand Corporate
-// --------------------------------------------
-$primary:       #0066cc !default;  // Blu corporate
-$secondary:     #6c757d !default;  // Grigio
-$success:       #28a745 !default;
-$info:          #17a2b8 !default;
-$warning:       #ffc107 !default;
-$danger:        #dc3545 !default;
-$light:         #f8f9fa !default;
-$dark:          #343a40 !default;
+// Colori Brand Corporate FAST
+// Palette primaria: Blu + Arancione FAST
+$primary:       #ff6a00 !default;  // Arancione FAST primario
+$secondary:     #0066cc !default;  // Blu FAST secondario
+$success:       #10b981 !default;  // Verde
+$info:          #0ea5e9 !default;  // Cyan
+$warning:       #f59e0b !default;  // Ambra
+$danger:        #ef4444 !default;  // Rosso
+$light:         #f9fafb !default;  // Bianco/Grigio chiaro
+$dark:          #111827 !default;  // Nero profondo
 
 // Colori custom corporate
-$corporate-blue:    #0066cc !default;
-$corporate-dark:    #003366 !default;
+$corporate-blue:        #0066cc !default;  // Blu principale
+$corporate-blue-dark:   #003d99 !default;  // Blu scuro
+$corporate-blue-light:  #cce5ff !default;  // Blu chiaro
+$corporate-orange:      #ff6a00 !default;  // Arancione FAST
+$corporate-orange-dark: #cc5500 !default;  // Arancione scuro
+$corporate-orange-light:#ffe6cc !default;  // Arancione chiaro
 $corporate-light:   #e6f2ff !default;
 
 // --------------------------------------------

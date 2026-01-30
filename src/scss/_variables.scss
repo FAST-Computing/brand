@@ -5,17 +5,16 @@
 // per personalizzare l'aspetto secondo il brand aziendale
 
 // --------------------------------------------
-// Colori Brand
-// --------------------------------------------
-// Definisci qui i colori principali del tuo brand
-$primary:       #ff6a00 !default;
-$secondary:     #1BA3A3 !default;
-$success:       #28a745 !default;
-$info:          #17a2b8 !default;
-$warning:       #ffc107 !default;
-$danger:        #8f5424 !default;
-$light:         #f3f4f6 !default;
-$dark:          #111111 !default;
+// Colori Brand FAST Computing
+// Blu primario e arancione di FAST - Palette principale
+$primary:       #0066cc !default;  // Blu FAST
+$secondary:     #ff6a00 !default;  // Arancione FAST
+$success:       #10b981 !default;  // Verde
+$info:          #0ea5e9 !default;  // Cyan
+$warning:       #f59e0b !default;  // Ambra
+$danger:        #ef4444 !default;  // Rosso
+$light:         #f9fafb !default;  // Bianco/Grigio chiaro
+$dark:          #111827 !default;  // Nero profondo
 
 // --------------------------------------------
 // Typography
