@@ -4,22 +4,24 @@
 // Personalizzazione per il portale Argos
 
 // --------------------------------------------
-// Colori Brand Argos
-// --------------------------------------------
-$primary:       #2c3e50 !default;  // Blu scuro professionale
-$secondary:     #95a5a6 !default;  // Grigio argento
-$success:       #27ae60 !default;  // Verde
-$info:          #3498db !default;  // Blu chiaro
-$warning:       #f39c12 !default;  // Arancione
-$danger:        #e74c3c !default;  // Rosso
-$light:         #ecf0f1 !default;  // Grigio chiarissimo
-$dark:          #2c3e50 !default;  // Blu scuro
+// Colori Brand Argos (branch FAST - Tendente all'arancione)
+// Palette dinamica basata su arancione FAST con blu di supporto
+$primary:       #ff6a00 !default;  // Arancione FAST primario
+$secondary:     #0066cc !default;  // Blu FAST secondario
+$success:       #10b981 !default;  // Verde
+$info:          #0ea5e9 !default;  // Cyan
+$warning:       #f59e0b !default;  // Ambra
+$danger:        #ef4444 !default;  // Rosso
+$light:         #fefce8 !default;  // Bianco caldo
+$dark:          #1f2937 !default;  // Grigio scuro
 
 // Colori custom Argos
-$argos-primary:     #2c3e50 !default;
-$argos-secondary:   #34495e !default;
-$argos-accent:      #3498db !default;
-$argos-light-bg:    #ecf0f1 !default;
+$argos-primary:       #ff6a00 !default;  // Arancione FAST
+$argos-primary-dark:  #cc5500 !default;  // Arancione scuro
+$argos-primary-light: #ffe6cc !default;  // Arancione chiaro
+$argos-secondary:     #0066cc !default;  // Blu FAST
+$argos-accent:        #f59e0b !default;  // Ambra
+$argos-light-bg:      #fffbeb !default;  // Sfondo caldo
 
 // --------------------------------------------
 // Typography Argos

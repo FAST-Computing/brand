@@ -4,27 +4,29 @@
 // Personalizzazione per il portale Atlas
 
 // --------------------------------------------
-// Colori Brand Atlas
-// --------------------------------------------
-$primary:       #6f42c1 !default;  // Viola/Purple
-$secondary:     #6c757d !default;  // Grigio
-$success:       #10b981 !default;  // Verde moderno
-$info:          #06b6d4 !default;  // Cyan
+// Colori Brand Atlas (branch FAST - Tendente al blu)
+// Palette professionale basata su blu FAST con arancione di supporto
+$primary:       #0066cc !default;  // Blu FAST primario
+$secondary:     #ff6a00 !default;  // Arancione FAST secondario
+$success:       #10b981 !default;  // Verde
+$info:          #0ea5e9 !default;  // Cyan
 $warning:       #f59e0b !default;  // Ambra
-$danger:        #ef4444 !default;  // Rosso moderno
-$light:         #f3f4f6 !default;  // Grigio chiaro moderno
-$dark:          #1f2937 !default;  // Grigio scuro moderno
+$danger:        #ef4444 !default;  // Rosso
+$light:         #f0f9ff !default;  // Bianco freddo
+$dark:          #111827 !default;  // Nero profondo
 
 // Colori custom Atlas
-$atlas-primary:     #6f42c1 !default;
-$atlas-secondary:   #8b5cf6 !default;
-$atlas-accent:      #ec4899 !default;
-$atlas-dark:        #1f2937 !default;
-$atlas-light-bg:    #f9fafb !default;
+$atlas-primary:       #0066cc !default;  // Blu FAST
+$atlas-primary-dark:  #003d99 !default;  // Blu scuro
+$atlas-primary-light: #cce5ff !default;  // Blu chiaro
+$atlas-secondary:     #ff6a00 !default;  // Arancione FAST
+$atlas-accent:        #0ea5e9 !default;  // Cyan
+$atlas-dark:          #111827 !default;  // Nero profondo
+$atlas-light-bg:      #f0f9ff !default;  // Sfondo freddo
 
 // Gradients Atlas
-$atlas-gradient-primary: linear-gradient(135deg, #6f42c1 0%, #8b5cf6 100%) !default;
-$atlas-gradient-accent: linear-gradient(135deg, #8b5cf6 0%, #ec4899 100%) !default;
+$atlas-gradient-primary: linear-gradient(135deg, #0066cc 0%, #0ea5e9 100%) !default;
+$atlas-gradient-accent: linear-gradient(135deg, #0066cc 0%, #ff6a00 100%) !default;
 
 // --------------------------------------------
 // Typography Atlas
